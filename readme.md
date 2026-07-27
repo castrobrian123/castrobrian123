@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Brian Castro
 
 Soy estudiante de **Licenciatura en Informática** en Argentina.  
-Me apasionan las **bases de datos**, el **análisis de datos** y la posibilidad de transformar información en conocimiento útil.  
+Me apasionan las **bases de datos** y la posibilidad de transformar información en conocimiento útil.  
 Actualmente estoy fortaleciendo mis habilidades en **front-end**, **consultas SQL** y **programación**, construyendo proyectos que me ayudan a crecer como profesional y como persona.
 
 ---
@@ -15,17 +15,17 @@ Actualmente estoy fortaleciendo mis habilidades en **front-end**, **consultas SQ
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Desarrollo
+### ⚙️ Desarrollo de Paginas Web basicas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Motor de Bases de Datos
 ![MariaDB](https://img.shields.io/badge/MariaDB-blue?logo=mariadb&logoColor=white)
 
-### 🧰 Herramientas
+### 🧰 Otras Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
