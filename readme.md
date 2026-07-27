@@ -32,21 +32,18 @@ Actualmente estoy fortaleciendo mis habilidades en **front-end**, **consultas SQ
 
 ---
 
-## 📚 Actualmente aprendiendo
-- SQL avanzado  
-- Python para estructuras de datos  
-- Buenas prácticas de desarrollo  
+## 📚 Actualmente estoy aprendiendo
+- SQL avanzado
 
 ---
 
 ## 💾 SQL
-Me interesa explorar y practicar consultas como:
+conocimientos en consultas con:
 - JOIN  
 - GROUP BY  
 - Funciones de agregación  
 - Subconsultas  
-- EXISTS  
-- ALL / ANY  
+- EXISTS
 - Modelado de bases de datos relacionales  
 
 ---
@@ -58,7 +55,6 @@ Me interesa explorar y practicar consultas como:
 ---
 
 ## 🎯 Objetivos
-- Conseguir mi primera experiencia profesional en tecnología.  
 - Aprender nuevas tecnologías constantemente.  
 - Crecer en comunidad y compartir lo que voy aprendiendo.  
 
