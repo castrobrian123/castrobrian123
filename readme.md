@@ -49,14 +49,13 @@ conocimientos en consultas con:
 ---
 
 ## 🐍 Python
-- Conocimiento básico de la sintaxis  
-- Primeros proyectos prácticos para afianzar lógica y estructuras  
+- Conocimiento básico de programacion
 
 ---
 
 ## 🎯 Objetivos
 - Aprender nuevas tecnologías constantemente.  
-- Crecer en comunidad y compartir lo que voy aprendiendo.  
+- trabajar en equipo y compartir lo que voy aprendiendo.  
 
 ---
 
